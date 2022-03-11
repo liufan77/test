@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nowcoder.mavendemo1.AppTest" time="0.042" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\work\workspace\mavendemo1\target\test-classes;D:\work\workspace\mavendemo1\target\classes;C:\Users\28908\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\28908\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\java\jdk-16.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\28908\AppData\Local\Temp\surefire16323167873496660486\surefirebooter3960697603996576177.jar C:\Users\28908\AppData\Local\Temp\surefire16323167873496660486 2022-03-03T10-19-06_473-jvmRun1 surefire14112425321874495798tmp surefire_011477804356515436390tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\work\workspace\mavendemo1\target\test-classes;D:\work\workspace\mavendemo1\target\classes;C:\Users\28908\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\28908\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\28908"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="D:\java\jdk-16.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\work\workspace\mavendemo1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\28908\AppData\Local\Temp\surefire16323167873496660486\surefirebooter3960697603996576177.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="28908"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\28908\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\28908\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="D:\work\workspace\mavendemo1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\java\jdk-16.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;D:\VMware Workstation Pro\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\28908\AppData\Local\Programs\Python\Python38;C:\Users\28908\AppData\Local\Programs\Python\Python38\Scripts;D:\anaconda3\Scripts;D:\MATLAB\R2020b\bin;&quot;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;&quot;;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;D:\xftp 7\;D:\xshell 7\;D:\work\apache-maven-3.8.4\bin;C:\Users\28908\AppData\Local\Microsoft\WindowsApps;;D:\PyCharm Community Edition 2020.2.2\bin;;D:\Cmake\bin;D:\IntelliJ IDEA Community Edition 2021.1.1\bin;;C:\Users\28908\AppData\Roaming\npm;D:\Microsoft VS Code\bin;D:\IntelliJ IDEA 2021.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.nowcoder.mavendemo1.AppTest" time="0.002"/>
+</testsuite>
